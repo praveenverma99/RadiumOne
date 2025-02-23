@@ -1,0 +1,1 @@
+{"uuid":"9e822672-5715-4747-9448-e590b0757222","name":"generalStore.SetUp.setUp","children":["7cb0d9e6-0bbf-48ee-9571-3d346dfb4046"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723372866187,"stop":1723372892849}],"afters":[],"start":1723372866186,"stop":1723372892850}

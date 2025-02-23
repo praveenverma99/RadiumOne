@@ -1,0 +1,1 @@
+{"uuid":"0658d631-9192-4252-8d03-0f70b4a46fb9","name":"generalStore.MobileSetUp.setUp","children":["ff08af4c-bcb4-4ee9-86e3-b1eb55ee20a9"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723378229655,"stop":1723378244589}],"afters":[],"start":1723378229655,"stop":1723378244590}
